@@ -24,6 +24,6 @@
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/Heviom/foundry-vtt-chock",
   "manifest": "",
-  "download": "",
+  "download": "https://github.com/Heviom/foundry-vtt-chock/releases/tag/1.0/source code.zip",
   "license": "LICENSE.txt"
 }
