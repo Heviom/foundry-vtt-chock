@@ -7,8 +7,8 @@
   "compatibleCoreVersion": "0.7.9",
   "templateVersion": 2,
   "author": "Henrik Vikström",
-  "esmodules": ["module/chock.js"],
-  "styles": ["css/chock.css"],
+  "esmodules": [],
+  "styles": [],
   "scripts": [],
   "packs": [],
   "languages": [
