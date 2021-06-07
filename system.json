@@ -22,7 +22,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
+  "url": "https://github.com/Heviom/foundry-vtt-chock",
   "manifest": "",
   "download": "",
   "license": "LICENSE.txt"
