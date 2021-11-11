@@ -3,12 +3,12 @@
     "types": ["character"],
     "templates": {
       "base": {
-        "health": {
+        "talighet": {
           "value": 10,
           "min": 0,
           "max": 10
         },
-        "power": {
+        "kraft": {
           "value": 5,
           "min": 0,
           "max": 5
@@ -24,23 +24,32 @@
         }
       },
       "abilities": {
-        "str": {
-          "value": 10
+        "fys": {
+          "value": 3
         },
-        "dex": {
-          "value": 10
+        "ror": {
+          "value": 3
         },
-        "con": {
-          "value": 10
+        "iak": {
+          "value": 3
+        },
+        "bil": {
+          "value": 3
+        },
+        "han": {
+          "value": 3
+        },
+        "kre": {
+          "value": 3
+        },
+        "kar": {
+          "value": 3
+        },
+        "vil": {
+          "value": 3
         },
         "int": {
-          "value": 10
-        },
-        "wis": {
-          "value": 10
-        },
-        "cha": {
-          "value": 10
+          "value": 3
         }
       }
     }
